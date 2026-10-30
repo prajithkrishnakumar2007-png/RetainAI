@@ -13,7 +13,7 @@
 
 ## 📌 Executive Summary
 
-**RetainAI** is an enterprise-grade, full-stack machine learning web application that transforms standard Telco Customer Churn predictive modeling from a passive classification exercise into an **actionable, value-maximizing retention engine**.
+**RetainAI** is a full-stack machine learning web application that transforms standard Telco Customer Churn predictive modeling from a passive classification exercise into an **actionable, value-maximizing retention engine**.
 
 Traditional churn models only predict *who* will churn. RetainAI answers the critical business questions:
 1. **Who is actually worth saving?** (Financial impact & Expected Value Saved)

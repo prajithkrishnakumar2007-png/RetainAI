@@ -197,5 +197,5 @@ Open your browser at:
 
 ## 📄 License & Attribution
 
-Developed for Hack the Horizon,KPR. Distributed under the MIT License.  
+Developed for "Hack the Horizon, KPR". Distributed under the MIT License.  
 Author: [prajithkrishnakumar2007-png](https://github.com/prajithkrishnakumar2007-png)
